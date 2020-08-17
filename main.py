@@ -2,6 +2,6 @@
 
 def main(msg):
     //adding a diffrent comment
-    print(msg)
+    //print a message
 
-main("Hello People")
+    print(msg)
